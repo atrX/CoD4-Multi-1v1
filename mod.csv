@@ -1,0 +1,5 @@
+xmodel,body_mp_usmc_cqb
+
+rawfile,maps/mp/gametypes/_gametypes.txt
+rawfile,maps/mp/gametypes/multi1v1.txt
+rawfile,maps/mp/gametypes/multi1v1.gsc
